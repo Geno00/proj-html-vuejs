@@ -10,6 +10,7 @@
 import MyHeader from '@/components/MyHeader.vue';
 import MyMain from '@/components/MyMain.vue';
 import MyFooter from '@/components/MyFooter.vue';
+import "./assets/style/general.scss";
 
 
 export default {
@@ -23,5 +24,5 @@ export default {
 </script>
 
 <style lang="scss">
-
+  
 </style>
